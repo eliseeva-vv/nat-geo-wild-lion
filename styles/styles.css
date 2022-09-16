@@ -175,7 +175,7 @@ img {
 .promo__scroll {
     width: 69px;
     height: 69px;
-    background-image: url("images/mouse.svg");
+    background-image: url("./images/mouse.svg");
     background-repeat: no-repeat;
     background-position: center center;
 }
